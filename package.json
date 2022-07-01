@@ -1,9 +1,16 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "evaluation-tpi",
+  "version": "1.1.1",
+  "description": "Procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)",
   "private": true,
   "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ponsfrilus/evaluation-TPI"
+  },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^13.0.16",
